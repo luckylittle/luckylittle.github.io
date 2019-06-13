@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+<div align="left">[![people.redhat.com](img/redhat_logo.jpg)](https://redhat.com)</div>
 
-You can use the [editor on GitHub](https://github.com/luckylittle/luckylittle.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**  
+I work @ [Red Hat](https://redhat.com).  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[ ![](http://static.licdn.com/scds/common/u/images/logos/favicons/v1/16x16/favicon.ico) [Linkedin](https://www.linkedin.com/in/lucianmaly1981/) ] | [ ![](https://about.twitter.com/etc/designs/about-twitter/public/img/favicon-16x16.png) [Twitter](https://twitter.com/LucianMaly) ] | [ ![](https://github.githubassets.com/favicon.ico) [Github](https://github.com/luckylittle) ] | [ ![](https://www.redhat.com/profiles/rh/themes/redhatdotcom/favicon.ico) [Rover (internal)](https://rover.redhat.com/people/profile/lmaly) ]  
 
-### Markdown
+PGP public key: [ [Keybase](https://keybase.io/lmaly/pgp_keys.asc) ] | [ [Fedora (mirror)](https://keys.fedoraproject.org/pks/lookup?search=0x6D90FD00) ] | [ [Red Hat (internal)](http://file.syd.redhat.com/~lmaly/) ]  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luckylittle/luckylittle.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<small>_©2019 lucian@redhat.com_</small>  
+**
