@@ -12,7 +12,7 @@ PGP public key: [ [Keybase](https://keybase.io/lmaly/pgp_keys.asc) ] |
 [ [Red Hat (internal)](http://file.syd.redhat.com/~lmaly/) ]
 
 [ <img src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon-16x16.png" width="16" height="16"> <a href="https://www.buymeacoffee.com/luckylittle">Buy me a coffee</a> ] | 
-[ <img src="https://info.credly.com/hubfs/Credly_orange-favicon-2.png" width="16" height="16"> <a href=https://www.credly.com/users/lucian-maly/badges>Credly</a> ]
+[ <img src="https://info.credly.com/hubfs/Credly_orange-favicon-2.png" width="16" height="16"> <a href="https://www.credly.com/users/lucian-maly/badges">Credly</a> ]
 
 ![luckylittle's GitHub stats](http://github-readme-streak-stats.herokuapp.com/?user=luckylittle&theme=dark&hide_border=false)
 
